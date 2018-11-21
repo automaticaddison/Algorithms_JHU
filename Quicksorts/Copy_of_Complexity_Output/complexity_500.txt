@@ -1,0 +1,6 @@
+---------------------------------------------------------------------
+RUNTIME STATISTICS: NORMAL PIVOT VS. MEDIAN-OF-THREE
+---------------------------------------------------------------------
+Number of Elements in the Input File: 500 elements
+Amount of Work Done for the Normal Pivot Selection Process: 811 steps
+Amount of Work Done for the Median-of-Three Pivot Selection Process: 607 steps
