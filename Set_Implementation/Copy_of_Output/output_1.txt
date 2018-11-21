@@ -1,0 +1,17 @@
+SET IMPLEMENTATION RUN
+
+Author: Addison Sears-Collins
+----------------
+Long Array: []
+Short Array: [0]
+
+Inserting 23
+Long Array: []
+Short Array: [23]
+
+Looking for 324:
+324 was not found in the set
+
+Looking for 23:
+23 was found in the shorter array at index: 0
+

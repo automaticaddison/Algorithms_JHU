@@ -1,0 +1,59 @@
+SET IMPLEMENTATION RUN
+
+Author: Addison Sears-Collins
+----------------
+Long Array: []
+Short Array: [0]
+
+Inserting 23
+Long Array: []
+Short Array: [23]
+
+Inserting 44
+Reallocation is in progress.
+Long Array: [23]
+Short Array: [44]
+
+Inserting 56
+Reallocation is in progress.
+Long Array: [23, 44]
+Short Array: [56]
+
+Inserting 82
+Reallocation is in progress.
+Long Array: [23, 44, 56]
+Short Array: [82]
+
+Inserting 75
+Reallocation is in progress.
+Long Array: [23, 44, 56, 82]
+Short Array: [0, 75]
+
+Inserting 57
+Long Array: [23, 44, 56, 82]
+Short Array: [57, 75]
+
+Inserting 68
+Reallocation is in progress.
+Long Array: [23, 44, 56, 57, 75, 82]
+Short Array: [0, 68]
+
+Inserting 14
+Long Array: [23, 44, 56, 57, 75, 82]
+Short Array: [14, 68]
+
+Inserting 30
+Reallocation is in progress.
+Long Array: [14, 23, 44, 56, 57, 68, 75, 82]
+Short Array: [0, 30]
+
+Inserting 34
+Long Array: [14, 23, 44, 56, 57, 68, 75, 82]
+Short Array: [30, 34]
+
+Looking for 324:
+324 was not found in the set
+
+Looking for 23:
+23 was found in the longer array at index: 1
+

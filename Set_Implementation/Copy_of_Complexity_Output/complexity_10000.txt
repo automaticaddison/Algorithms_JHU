@@ -1,0 +1,6 @@
+------------------------------------------
+VERIFICATION OF PREDICTED COMPLEXITY BOUND
+------------------------------------------
+Number of Elements in the Input File: 10000 elements
+Amount of Work Done for Insert: 205 operations
+Amount of Work Done for Search: 21 operations

@@ -1,0 +1,6 @@
+------------------------------------------
+VERIFICATION OF PREDICTED COMPLEXITY BOUND
+------------------------------------------
+Number of Elements in the Input File: 1 elements
+Amount of Work Done for Insert: 0 operations
+Amount of Work Done for Search: 1 operations
